@@ -7,8 +7,6 @@ This is a record of my progress through the **Bandit Wargame** by OverTheWire. I
 ## 🔰 Level 1 - level 20
 
 
-## 🔐 Level 0 → Level 1
-
 ### 🎯 Goal
 Learn how to connect to a remote server via SSH.
 
